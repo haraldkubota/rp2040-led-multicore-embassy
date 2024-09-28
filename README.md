@@ -42,7 +42,7 @@ $ rustup target add thumbv6m-none-eabi
 To use the Pico probe:
 
 ```
-cargo binstall probe-rs
+$ cargo binstall probe-rs
 ```
 
 To use various tools, e.g. to see the code size of the generated ELF (e.g. `cargo size`):
